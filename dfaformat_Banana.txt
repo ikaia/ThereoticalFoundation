@@ -1,0 +1,8 @@
+{0,1}
+{Banana,Pudding}
+Banana
+{Pudding}
+(Banana,0)->Banana
+(Banana,1)->Pudding
+(Pudding,0)->Banana
+(Pudding,1)->Pudding
